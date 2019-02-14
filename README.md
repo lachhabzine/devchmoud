@@ -2,10 +2,10 @@
 
                                            \/    
                                        
-                                       devchmoud
-                             [Facebook Informations]
+                                       devchmoud Tools
+                                   [Facebook Informations]
 ```
-devchmoud ®️est une collecte précise des informations de compte facebook, toutes les informations sensibles peuvent être facilement collectées même si la cible convertit toute sa vie privée en informations confidentielles (uniquement pour moi), informations sensibles sur la résidence, la date de naissance, la profession, le numéro de téléphone et  l adresse électronique
+devchmoud tools fb ®️est une collecte précise des informations de compte facebook, toutes les informations sensibles peuvent être facilement collectées même si la cible convertit toute sa vie privée en informations confidentielles (uniquement pour moi), informations sensibles sur la résidence, la date de naissance, la profession, le numéro de téléphone et  l adresse électronique
 
 
 
@@ -32,10 +32,11 @@ $ python2 devchmoud.py
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
+👮 👮
 
 ![](https://image.ibb.co/i4ES3U/bc.png)
 
-   ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
+   ![](https://www.paypal.me/lachhabezzine)
 
 
 Original creator of devchmoud
