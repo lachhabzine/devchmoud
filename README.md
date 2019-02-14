@@ -36,7 +36,7 @@ $ python2 devchmoud.py
 
 ![](https://image.ibb.co/i4ES3U/bc.png)
 
-   ![](https://www.paypal.me/lachhabezzine)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](lachhabezzine)
 
 
 Original creator of devchmoud
