@@ -35,9 +35,8 @@ $ python2 devchmoud.py
 👮 👮
 
 ![](https://image.ibb.co/i4ES3U/bc.png)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](lachhabezzine)
-
+<a href="https://github.com/adeshpande3/Facebook-Messenger-Bot">this entire repository from GitHub</a>
+https://paypal.me/lachhabezzine?locale.x=fr_XC
 
 Original creator of devchmoud
 lachhab ezzine (devchchab)
