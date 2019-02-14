@@ -1,11 +1,19 @@
 ```
 
-                                           \/    
+                                  ░░░░░▄▄▀▀▀▀▀▀▀▀▀▄▄░░░░░
+                                  ░░░░█░░░░░░░░░░░░░█░░░░
+                                  ░░░█░░░░░░░░░░▄▄▄░░█░░░
+                                  ░░░█░░▄▄▄░░▄░░███░░█░░░
+                                  ░░░▄█░▄░░░▀▀▀░░░▄░█▄░░░
+                                  ░░░█░░▀█▀█▀█▀█▀█▀░░█░░░
+                                  ░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░
+                                  ░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░   
+                                  
                                        
                                        devchmoud Tools
                                    [Facebook Informations]
 ```
-devchmoud tools fb ®️est une collecte précise des informations de compte facebook, toutes les informations sensibles peuvent être facilement collectées même si la cible convertit toute sa vie privée en informations confidentielles (uniquement pour moi), informations sensibles sur la résidence, la date de naissance, la profession, le numéro de téléphone et  l adresse électronique
+devchmoud tools fb ®️ est une collecte précise des informations de compte facebook, toutes les informations sensibles peuvent être facilement collectées même si la cible convertit toute sa vie privée en informations confidentielles (uniquement pour moi), informations sensibles sur la résidence, la date de naissance, la profession, le numéro de téléphone et  l adresse électronique
 
 
 
@@ -13,7 +21,7 @@ devchmoud tools fb ®️est une collecte précise des informations de compte fac
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone 
+$ git clone https://github.com/lachhabzine/devchmoud.git
 $ cd devchmoud
 ```
 
@@ -23,7 +31,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 devchmoud.py
+$ python main.py
 ```
 # [ Screenshot ]
 <img src="https://i.ibb.co/0FGHHCZ/Capture-d-e-cran-2019-02-14-a-09-27-30.png"/>
@@ -42,3 +50,19 @@ lachhab ezzine (devchchab)
 
 License
 MIT © lachhab ezzine
+
+░░░░░░░░░░░░░░░░░░░░░░█████████░░░░░░░░░
+░░███████░░░░░░░░░░███▒▒▒▒▒▒▒▒███░░░░░░░
+░░█▒▒▒▒▒▒█░░░░░░░███▒▒▒▒▒▒▒▒▒▒▒▒▒███░░░░
+░░░█▒▒▒▒▒▒█░░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
+░░░░█▒▒▒▒▒█░░░██▒▒▒▒▒██▒▒▒▒▒▒██▒▒▒▒▒███░
+░░░░░█▒▒▒█░░░█▒▒▒▒▒▒████▒▒▒▒████▒▒▒▒▒▒██
+░░░█████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
+░░░█▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒██
+░██▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒██▒▒▒▒▒▒▒▒▒▒██▒▒▒▒██
+██▒▒▒███████████▒▒▒▒▒██▒▒▒▒▒▒▒▒██▒▒▒▒▒██
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒████████▒▒▒▒▒▒▒██
+██▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░
+░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░░
+░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█░░░░░
+░░████████████░░░█████████████████░░░░░░
