@@ -34,9 +34,8 @@ $ python2 devchmoud.py
 * [Tips] do not overuse this program !!!
 👮 👮
 
-![](https://image.ibb.co/i4ES3U/bc.png)
-<a href="https://github.com/adeshpande3/Facebook-Messenger-Bot">this entire repository from GitHub</a>
-https://paypal.me/lachhabezzine?locale.x=fr_XC
+<a href="https://paypal.me/lachhabezzine?locale.x=fr_XC">SUPPORT ME BY DONATING $5</a>
+
 
 Original creator of devchmoud
 lachhab ezzine (devchchab)
