@@ -38,3 +38,8 @@ $ python2 devchmoud.py
    ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
 
 
+Original creator of devchmoud
+lachhab ezzine (devchchab)
+
+License
+MIT © lachhab ezzine
