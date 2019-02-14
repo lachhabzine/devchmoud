@@ -26,7 +26,8 @@ $ pip2 install -r requirements.txt
 $ python2 devchmoud.py
 ```
 # [ Screenshot ]
-<img src="https://ibb.co/wwz55SC"/>
+<img src="https://i.ibb.co/0FGHHCZ/Capture-d-e-cran-2019-02-14-a-09-27-30.png"/>
+
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
